@@ -1,0 +1,15 @@
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\bin\Debug\net8.0\PriorityQueue.exe
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\bin\Debug\net8.0\PriorityQueue.deps.json
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\bin\Debug\net8.0\PriorityQueue.runtimeconfig.json
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\bin\Debug\net8.0\PriorityQueue.dll
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\bin\Debug\net8.0\PriorityQueue.pdb
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.AssemblyInfoInputs.cache
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.AssemblyInfo.cs
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.csproj.CoreCompileInputs.cache
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.sourcelink.json
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.dll
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\obj\Debug\net8.0\refint\PriorityQueue.dll
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.pdb
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\obj\Debug\net8.0\PriorityQueue.genruntimeconfig.cache
+D:\C# Projects\Homework\PriorityQueue\PriorityQueue\obj\Debug\net8.0\ref\PriorityQueue.dll
