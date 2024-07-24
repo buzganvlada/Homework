@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class MathOperations<T>
+public class MathOperations<T> where T : struct, IComparable, IComparable<T>, IEquatable<T>
 {
    public T Add(T a, T b)
     {
