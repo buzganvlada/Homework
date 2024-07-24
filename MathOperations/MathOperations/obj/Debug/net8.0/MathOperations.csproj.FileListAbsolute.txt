@@ -1,0 +1,15 @@
+D:\C# Projects\Homework\MathOperations\MathOperations\bin\Debug\net8.0\MathOperations.exe
+D:\C# Projects\Homework\MathOperations\MathOperations\bin\Debug\net8.0\MathOperations.deps.json
+D:\C# Projects\Homework\MathOperations\MathOperations\bin\Debug\net8.0\MathOperations.runtimeconfig.json
+D:\C# Projects\Homework\MathOperations\MathOperations\bin\Debug\net8.0\MathOperations.dll
+D:\C# Projects\Homework\MathOperations\MathOperations\bin\Debug\net8.0\MathOperations.pdb
+D:\C# Projects\Homework\MathOperations\MathOperations\obj\Debug\net8.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Homework\MathOperations\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfoInputs.cache
+D:\C# Projects\Homework\MathOperations\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfo.cs
+D:\C# Projects\Homework\MathOperations\MathOperations\obj\Debug\net8.0\MathOperations.csproj.CoreCompileInputs.cache
+D:\C# Projects\Homework\MathOperations\MathOperations\obj\Debug\net8.0\MathOperations.sourcelink.json
+D:\C# Projects\Homework\MathOperations\MathOperations\obj\Debug\net8.0\MathOperations.dll
+D:\C# Projects\Homework\MathOperations\MathOperations\obj\Debug\net8.0\refint\MathOperations.dll
+D:\C# Projects\Homework\MathOperations\MathOperations\obj\Debug\net8.0\MathOperations.pdb
+D:\C# Projects\Homework\MathOperations\MathOperations\obj\Debug\net8.0\MathOperations.genruntimeconfig.cache
+D:\C# Projects\Homework\MathOperations\MathOperations\obj\Debug\net8.0\ref\MathOperations.dll
