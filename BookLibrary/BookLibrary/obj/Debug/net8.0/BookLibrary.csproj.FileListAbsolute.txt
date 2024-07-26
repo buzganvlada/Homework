@@ -1,0 +1,15 @@
+D:\C# Projects\Homework\BookLibrary\BookLibrary\bin\Debug\net8.0\BookLibrary.exe
+D:\C# Projects\Homework\BookLibrary\BookLibrary\bin\Debug\net8.0\BookLibrary.deps.json
+D:\C# Projects\Homework\BookLibrary\BookLibrary\bin\Debug\net8.0\BookLibrary.runtimeconfig.json
+D:\C# Projects\Homework\BookLibrary\BookLibrary\bin\Debug\net8.0\BookLibrary.dll
+D:\C# Projects\Homework\BookLibrary\BookLibrary\bin\Debug\net8.0\BookLibrary.pdb
+D:\C# Projects\Homework\BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Homework\BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.AssemblyInfoInputs.cache
+D:\C# Projects\Homework\BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.AssemblyInfo.cs
+D:\C# Projects\Homework\BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.csproj.CoreCompileInputs.cache
+D:\C# Projects\Homework\BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.sourcelink.json
+D:\C# Projects\Homework\BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.dll
+D:\C# Projects\Homework\BookLibrary\BookLibrary\obj\Debug\net8.0\refint\BookLibrary.dll
+D:\C# Projects\Homework\BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.pdb
+D:\C# Projects\Homework\BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.genruntimeconfig.cache
+D:\C# Projects\Homework\BookLibrary\BookLibrary\obj\Debug\net8.0\ref\BookLibrary.dll
